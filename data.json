@@ -1,0 +1,21 @@
+{
+    "title": "Betrice has covid but not sick",
+    "content": "Test Content #1",
+    "createdAt": "August 12, 2028",
+    "image": "/img/1.js",
+    "views": [
+        {
+            "ip" : "127.0.0.1",
+            "cookies" : "kaldkj"
+        },
+        {
+            "ip" : "127.0.0.2",
+            "cookie" : "jdalkjs"
+        },
+        {
+            "ip" : "127.0.0.4",
+            "cookie" : "lakjsd"
+        }
+    ],
+    "updatedAt" : "August 12, 2020"
+}

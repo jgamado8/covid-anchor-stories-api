@@ -1,0 +1,27 @@
+{
+  "name": "covid-anchor-api",
+  "version": "1.0.0",
+  "description": "Covid Anchor API for all UI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgamado8/covid-anchor.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgamado8/covid-anchor/issues"
+  },
+  "homepage": "https://github.com/jgamado8/covid-anchor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.29"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
